@@ -5,6 +5,7 @@
 //  Created by Vaibhav Shirole on 1/26/24.
 //
 
+import PencilKit
 import UIKit
 
 class ViewController: UIViewController {
