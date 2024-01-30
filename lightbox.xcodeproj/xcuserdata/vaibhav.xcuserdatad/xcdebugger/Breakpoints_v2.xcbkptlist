@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "339AEBF5-0E17-42EE-9B85-39AFA2B05A2A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4E37D995-8DBF-49BD-8A3F-C0CC2C4AD728"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lightbox/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "canvasViewDidBeginUsingTool(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4E37D995-8DBF-49BD-8A3F-C0CC2C4AD728 - c0f8b00497edf582"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lightbox.ViewController.canvasViewDidBeginUsingTool(__C.PKCanvasView) -&gt; ()"
+                  moduleName = "lightbox"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vaibhav/Developer/projects/lightbox/lightbox/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "4E37D995-8DBF-49BD-8A3F-C0CC2C4AD728 - c0f8b00497edf561"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lightbox.ViewController.canvasViewDidBeginUsingTool(__C.PKCanvasView) -&gt; ()"
+                  moduleName = "lightbox"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vaibhav/Developer/projects/lightbox/lightbox/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

@@ -18,7 +18,12 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
-                    <navigationItem key="navigationItem" title="lightbox" id="7HN-U1-f02"/>
+                    <toolbarItems/>
+                    <navigationItem key="navigationItem" title="lightbox" id="7HN-U1-f02">
+                        <barButtonItem key="leftBarButtonItem" systemItem="camera" id="TrS-u4-yQR"/>
+                        <barButtonItem key="rightBarButtonItem" title="Pencil" id="uHX-k7-0aS"/>
+                    </navigationItem>
+                    <simulatedToolbarMetrics key="simulatedBottomBarMetrics"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
